@@ -1,0 +1,72 @@
+.green{
+    background-color: green;
+    width:100%;
+    height:50px;
+    float:left;
+}
+.orange{
+    background-color:rgb(158, 57, 21);
+    width:50%;
+    height:50px;
+    float:right;
+}
+.brown{
+    background-color:brown;
+    width:20%;
+    height:50px;
+    float:left;
+}
+.yellow{
+    background-color:rgb(233, 233, 56);
+    width:30%;
+    height:50px;
+    float:left;
+}
+.red{
+    background-color:red;
+    width:40%;
+    height:70px;
+    float:right;
+}
+.peach{
+    background-color:rgb(238, 96, 44);
+    width:30%;
+    height:50px;
+    float:left;
+}
+.blue{
+    background-color:darkblue;
+    width:30%;
+    height:50px;
+    float:left;
+}
+.rose{
+    background-color:rosybrown;
+    width:60%;
+    height:20px;
+    float:left;
+}
+.pink{
+    background-color:darkmagenta;
+    width:70%;
+    height:30px;
+    float:left;
+}
+.olive{
+    background-color:olivedrab;
+    width:30%;
+    height:30px;
+    float:left;
+}
+.mauve{
+    background-color:mediumslateblue;
+    width:100%;
+    height:50px;
+    float:left;
+}
+h1{
+    color:crimson;
+    font-style: italic;
+    font-family:cursive fantasy;
+    text-decoration-line: underline;
+}
